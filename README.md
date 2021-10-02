@@ -5,7 +5,7 @@
 The FITS format is used for storing astronomical data in a tabular format. 
 - A file in FITS contains a series of __Header Data Units (HDUs)__, each containing two components: an ASCII text header and the binary data.
 
-|One|||
+||||
 |---|---|---|
 |![Fits image example](FITS1.png)|![Fits image example](FITS2.png)|![Fits image example](FITS3.png)|
 
